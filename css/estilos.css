@@ -3,3 +3,11 @@ body
     text-align: center;
     font-family: "Arial";
 }
+#contenedor
+{
+    border: 1px solid green;
+    border-radius: 10px;
+    background: pink;
+    text-align: left;
+    padding: 10px;
+}
